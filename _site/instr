@@ -1,0 +1,4 @@
+/Users/rutabinkyte/rutabinkyte.github.io
+bundle install
+bundle exec jekyll serve
+bin/deploy --user
